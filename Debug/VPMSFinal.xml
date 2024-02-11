@@ -1,0 +1,241 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VPMSFinal
+</name>
+</assembly>
+<members>
+<member name="T:VPMSFinal.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.BLSRParkSysFinal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.car">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.car__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.cells">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.cells__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.edit__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.exit__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.file">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.file__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.settings_cog">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.settings_cog__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPMSFinal.My.Resources.Resources.SplashScreenBSLR">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.adminrecordtblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.admintblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.usertblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.vehicletblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.vehiclecategorytblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.adminrecordtblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.admintblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.usertblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.vehicletblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.vehiclecategorytblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.adminrecordtblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.admintblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.usertblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.vehicletblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSet.vehiclecategorytblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSetTableAdapters.adminrecordtblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSetTableAdapters.admintblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSetTableAdapters.usertblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSetTableAdapters.vehicletblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSetTableAdapters.vehiclecategorytblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:VPMSFinal.parkingdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(VPMSFinal.parkingdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:VPMSFinal.parkingdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(VPMSFinal.parkingdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:VPMSFinal.parkingdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(VPMSFinal.parkingdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:VPMSFinal.parkingdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:VPMSFinal.parkingdbDataSetTableAdapters.TableAdapterManager.UpdateAll(VPMSFinal.parkingdbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:VPMSFinal.parkingdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
